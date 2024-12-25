@@ -1,6 +1,6 @@
 # Disease-Prediction-System using PHP.
 <hr>
-## The project is done using core php.
+#The project is done using core php.
 
 
 
